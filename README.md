@@ -1,2 +1,3 @@
 # hello-world
-Hi, this is abhijith here
+Hi everyone,
+This is ABHIJITH RAJ here
